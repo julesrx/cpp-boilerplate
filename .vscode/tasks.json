@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "cppbuild",
+      "label": "Build",
+      "command": "gcc",
+      "args": ["main.cpp", "-o", "main.out"],
+      "options": { "cwd": "${workspaceFolder}" }
+    }
+  ]
+}
