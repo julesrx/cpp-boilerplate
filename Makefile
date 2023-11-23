@@ -1,2 +1,2 @@
 build:
-	g++ -fdiagnostics-color=always -g main.cpp -o main.out
+	g++ -fdiagnostics-color=always -g src/main.cpp -o main.out
